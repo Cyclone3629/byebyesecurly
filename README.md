@@ -23,7 +23,7 @@ I didn't make this, nor did the original project this is forked from.
 
 3. Click "Run."
 
-If the above instructions fail to work, use this instead: ![Plan B}(https://caudns.vercel.app/)
+If the above instructions fail to work, use this instead: ![Plan B](https://caudns.vercel.app/)
 
 <br>
 <br>
