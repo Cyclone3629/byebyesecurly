@@ -8,11 +8,10 @@
 </p>
 
 ### DISCLAIMER
-<p align='center'>I didn't make this, nor did the original project this is forked from. 
+I didn't make this, nor did the original project this is forked from. 
 
 
 ### Instructions
-I didn't originate this method, but I'm contributing to its improvement.
 
 1. Access [this file](/SecurlyKiller) and click the "Copy" button beside "raw". ( https://pastebin.com/mbd8xsQM if RAW is blocked)
    
