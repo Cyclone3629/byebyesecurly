@@ -1,5 +1,4 @@
 <h1 align="center">byebyesecurly</h1>
-<p align="center">Explore More on [TikTok](https://www.tiktok.com/@theofficial_hackersx) for Incredible Hacks!</p>
 <p align="center">
   <a href="link_to_license">
     <img src="https://img.shields.io/badge/License-CC0-blue.svg" alt="License">
