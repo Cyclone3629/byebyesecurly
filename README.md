@@ -1,4 +1,4 @@
-<h1 align="center">Hackers-X Unblocked Websites and More</h1>
+<h1 align="center">byebyesecurly</h1>
 <p align="center">Explore More on [TikTok](https://www.tiktok.com/@theofficial_hackersx) for Incredible Hacks!</p>
 <p align="center">
   <a href="link_to_license">
@@ -8,8 +8,8 @@
 <img src="https://img.shields.io/badge/Tested%20on-CHROMEBOOK-informational" alt="Tested on">
 </p>
 
-### UPDATES
-<p align='center'>As we return from winter break, we find that discord will no longer work even with proxys, for me anyway. If you all have the same issue, please tell me by making a issue report. I am on this trying to figure out a way to solve this, as it impacts me too, I do not have a PC at this time and these hacks are something I heavily rely on. I will keep you guys posted, in the meanwhile please star this repo.
+### DISCLAIMER
+<p align='center'>I didn't make this, nor did the original project this is forked from. 
 
 
 ### Instructions
