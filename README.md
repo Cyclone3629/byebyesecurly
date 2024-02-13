@@ -24,7 +24,8 @@ It is, however, slightly modified.
 3. Click "Run."
 
 If the above instructions fail to work, use this instead: [click](https://caudns.vercel.app/)
-Also if you want the wifi password, go to: [click](https://pastebin.com/JB2KguqZ)
+
+If you want the wifi password, go to: [click](https://pastebin.com/JB2KguqZ)
 
 <br>
 <br>
