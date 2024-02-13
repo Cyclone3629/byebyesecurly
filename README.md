@@ -24,14 +24,15 @@ It is, however, slightly modified.
 3. Click "Run."
 
 If the above instructions fail to work, use this instead: [click](https://caudns.vercel.app/)
+Also if you want the wifi password, go to: [click](https://pastebin.com/JB2KguqZ)
 
 <br>
 <br>
 
 ## Unblocker Websites
 ### Additional Sites:
-- [ubhub](https://ubhub-a358941cfbbb.herokuapp.com/ocean) (Working) 
-- [study.organization](http://study.organization.tomahawkchurch.org/) (Very Likely Working)
+- [ubhub](https://ubhub-a358941cfbbb.herokuapp.com/ocean) (Not Working) 
+- [study.organization](http://study.organization.tomahawkchurch.org/) (Not Working)
 - [interstellars.games](https://interstellars.games/) (Out of Service)
 - [eightgrade](https://69.eightgrade.com/) (Might Be Working; if encountering a black screen, keep reloading)
 - [incog.dev](https://incog.dev/#) (Possibly Blocked, verification pending)
