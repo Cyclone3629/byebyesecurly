@@ -23,7 +23,7 @@ It is, however, slightly modified.
 
 3. Click "Run."
 
-If the above instructions fail to work, use this instead: [click](https://caudns.vercel.app/)
+If the above instructions fail to work, use this instead: [click](https://caudns.vercel.app/) or [click](https://killsecurly.github.io/ONC)
 
 If you want the wifi password, go to: [click](https://pastebin.com/JB2KguqZ)
 
@@ -32,6 +32,8 @@ If you want the wifi password, go to: [click](https://pastebin.com/JB2KguqZ)
 
 ## Unblocker Websites
 ### Additional Sites:
+- [List of links](https://pastes.io/wkgmzaxgsk)
+
 - [ubhub](https://ubhub-a358941cfbbb.herokuapp.com/ocean) (Not Working) 
 - [study.organization](http://study.organization.tomahawkchurch.org/) (Not Working)
 - [interstellars.games](https://interstellars.games/) (Out of Service)
