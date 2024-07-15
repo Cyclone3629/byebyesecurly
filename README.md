@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/badge/Tested%20on-CHROMEBOOK-informational" alt="Tested on">
 </p>
 
+### THIS REPOSITORY IS OUT OF DATE. SOME THINGS MAY WORK, SOME MAY NOT. I WILL BE UPDATING THIS NEXT SCHOOL YEAR, SO I DONT CARE ABOUT ANYTHING NOT WORKING.
 ### DISCLAIMER
 I didn't make this, nor did the original project this is forked from. 
 It is, however, slightly modified.
